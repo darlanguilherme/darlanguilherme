@@ -4,8 +4,6 @@
 I'm Darlan Guilherme, I'm a backend developer and I've been working with technology since 2018.
 </p>
 
-<br> 
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technologies & Tools</b>
 
 <p align="center">
@@ -32,7 +30,6 @@ I'm Darlan Guilherme, I'm a backend developer and I've been working with technol
    ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </p>
-<br> 
 
 ## Connect with me 
 
