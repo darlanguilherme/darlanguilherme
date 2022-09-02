@@ -39,6 +39,3 @@ I'm Darlan Guilherme, I'm a backend developer and I've been working with technol
 <a href="https://www.instagram.com/darlanguilhermer/" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=f02b9a&style=for-the-badge&logo=instagram&logoColor=white" t=instagram style="margin-bottom: 5px;" />
 </a>
- <a href="https://www.facebook.com/anuj.kesharwani.397" target="_blank">
-<img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"  style="margin-bottom: 5px;" />
-</a>
